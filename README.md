@@ -18,7 +18,7 @@ https://google.github.io/styleguide/jsguide.html
 <b>Built with</b>
 - [React](https://reactjs.org/)
 - [Three.js](https://threejs.org/)
-- [WebGL]
+- WebGL
 
 <b>WireFramed and Prototyped with</b>
 - [Figma](https://www.figma.com/)
