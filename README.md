@@ -1,4 +1,4 @@
-## Stewart Mckenzie's Portfolio Website
+## My Portfolio Website
 This is my portfolio website! I am going to use it to showcase all the creations I am proud of and chronicle part of my process in creating them.
 
 ## Motivation
